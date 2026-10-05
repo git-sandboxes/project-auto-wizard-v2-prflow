@@ -58,7 +58,7 @@ name: README VERSION UPDATE
 
 env:
   # Whether to show the date next to the version (true/false)
-  SHOW_DATE: false
+  SHOW_DATE: true
   # Keep script imports from creating .github/scripts/__pycache__ so it never ends up in bot commits
   PYTHONDONTWRITEBYTECODE: "1"
 
