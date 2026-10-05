@@ -1,4 +1,4 @@
 # Demo
 
 <!-- AUTO-VERSION-SECTION: DO NOT EDIT MANUALLY -->
-## Latest Version : v0.0.1 (2020-01-01)
+## Latest Version : v1.7.0 (2026-10-05)
