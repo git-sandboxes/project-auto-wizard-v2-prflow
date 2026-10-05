@@ -56,4 +56,4 @@ metadata:
     options:
       semver_auto: true
       copilot_ai: false
-      release_automerge: true
+      release_automerge: false
