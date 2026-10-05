@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-05T14:53:45Z",
-    "currentVersion": "1.7.0",
+    "lastUpdated": "2026-10-05T15:02:36Z",
+    "currentVersion": "1.7.1",
     "projectTypes": [
       "basic"
     ],
-    "totalReleases": 5
+    "totalReleases": 6
   },
   "releases": [
+    {
+      "version": "1.7.1",
+      "project_types": [
+        "basic"
+      ],
+      "date": "2026-10-05",
+      "pr_number": null,
+      "raw_summary": "### ✨ 기능\n- add login page",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ 기능",
+          "items": [
+            "add login page"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "1.7.0",
       "project_types": [
